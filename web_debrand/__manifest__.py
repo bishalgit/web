@@ -5,6 +5,7 @@
     'summary': """Web Debrand """,
     'description': """ Web Debrand""",
     'company': "Nerku",
+    'author': "Softech",
     'website': "https://nerku.com/",
     'category': 'Tools',
     'depends': ['base'],
